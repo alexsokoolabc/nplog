@@ -1,4 +1,4 @@
-module github.com/duclm2609/nplog
+module github.com/alexsokoolabc/nplog
 
 go 1.14
 
